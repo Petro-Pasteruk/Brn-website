@@ -133,6 +133,7 @@
 @media (max-width: 425px) {
     .intro__desc {
         font-size: 25px;
+        margin-bottom: 12.3%;
     }
 
     .intro__title {

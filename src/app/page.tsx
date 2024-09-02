@@ -24,7 +24,7 @@ export default function LandingPage() {
             <header className={styles.header}>
                 <a href="https://brnapp.com" className={styles.header__logo}>
                     <Image
-                        src="/images/logo.svg"
+                        src="/images/logo.png"
                         alt="BRN Logo"
                         width={482}
                         height={482}
