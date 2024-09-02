@@ -26,11 +26,6 @@ export default function RootLayout({children}: { children: React.ReactNode }) {
                 <img height="1" width="1" style={{display: "none"}}
                      src="https://www.facebook.com/tr?id=7722995224406373&ev=PageView&noscript=1"
                 /></noscript>
-            <meta property="al:ios:url" content="nextboard://"/>
-            <meta property="al:ios:app_store_id" content="1517022963"/>
-            <meta property="al:ios:app_name" content="Copied"/>
-            <meta property="al:ios:app_url"
-                  content="https://apps.apple.com/app/apple-store/id1517022963?pt=118212041&ct=meta%20landing%20button&mt=8"/>
             <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"/>
             <link rel="icon" href="/favicon/favicon.ico"/>
             <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/>
