@@ -5,6 +5,7 @@
     flex-direction: column;
     justify-content: center;
     height: 100%;
+    padding-bottom: 30px;
 }
 
 /* Header */
@@ -141,9 +142,9 @@
     }
 
     .intro__link {
-        font-size: 17px;
+        font-size: 20px;
         width: 80%;
-        padding: 15px 0;
+        padding: 17px 0;
     }
 }
 
