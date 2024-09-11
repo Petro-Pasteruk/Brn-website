@@ -12,7 +12,7 @@ declare global {
 export default function LandingPage() {
     const handleClick = () => {
         if (typeof window !== "undefined" && window.fbq) {
-            window.fbq('track', 'Appstore_button', {
+            window.fbq('track', 'ViewContent', {
                 content_name: 'Get in Now Button Click',
                 content_category: 'Intro Section',
             });
